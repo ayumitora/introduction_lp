@@ -5,3 +5,5 @@
 ＃ first_lp を 作って HTML, CSS を 学習していこう！
 
 ＃ https://masagao.github.io/first_lp/
+
+https://ayumitora.github.io/introduction_lp/
